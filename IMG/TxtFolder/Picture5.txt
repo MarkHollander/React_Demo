@@ -1,0 +1,60 @@
+29
+EN)
+31
+2
+EES
+34
+35
+ES
+37
+38
+39
+20
+mn
+2
+a3
+4
+a5
+46
+a7
+48
+a9
+50
+51
+52
+53
+54
+55
+56
+57
+
+return (
+<div className="App">
+<div className="card">
+<div className="head">
+<h1>Menu seafood notes</h1>
+</div>
+<div className="notes">
+{notes.map((e) => (
+<div className="notes-iten">
+~({ width: "90%" }}>
+
+{e.title}</ha>
+<p>Gid: {e.des}</p>
+</div>
+<button
+type:
+
+width: "8%’
+
+color: "black",
+
+B
+onclick={() =>
+remove (e.key)
+»
+X
+</button>
+</div>
+
+nN

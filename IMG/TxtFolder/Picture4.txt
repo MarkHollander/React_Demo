@@ -1,0 +1,50 @@
+J5 MaiNgocNotesjs X
+src > components > JS MaiNgocNotesjs > @ MaiNgocNotes:
+1 import "./MaiNgocNotes.css";
+
+2 import { usestate } from “react”;
+3
+
+4 function MaiNgocNotes() {
+
+5 const [title, setTitle] = useState("");
+
+6 const [des, setDes] = useState("");
+
+7 const [notes, setNotes] = useState(data);
+
+8 const [count, setCount] = useState(4);
+
+°
+
+10 function remove(id) {
+
+1 setNotes(notes. filter((e) => e.key !== id));
+12 }
+
+13
+
+1a function handle() {
+
+15 if (Ititle || !des) {
+
+16 window. alert ("Incomplete input”);
+
+17 return;
+
+18 3
+
+19 sethotes([
+
+20 ...notes,
+
+2 { key: count, title: title, des: des },
+22 Ds
+
+23 setCount (count + 1);
+
+2 setTitle("");
+
+25 setbes("");
+
+26 console. log(notes);

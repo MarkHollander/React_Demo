@@ -1,0 +1,49 @@
+Js MaiNgocNotesjs X
+src > components > 5 MaiNgocNotesjs > © MaiNgocNotes
+
+92 // bu lieu hai san (dummy)
+93 const data = [
+
+9 {
+
+95 key: 0,
+
+9% title: "Mai Ngoc”,
+
+97 des: "settle - Texas - 4690 USD",
+
+98 bh
+
+% { key: 1, title: "Tiéu Vy", des: "Miami - Los Angeles - 5000 USD" },
+100 {
+
+101 key: 2,
+
+102 title: "pang Thu Thao",
+
+103 des: "Berlin - Paris - 4500 Euro”,
+104 h
+
+105 {
+
+106 key: 4,
+
+107 title: "Tom hum bd 16 phomai”
+
+108 des: "Nha Trang - Quy Nhon - 4560 K",
+109 ih
+
+110 {
+
+1m key: 5,
+
+112 title: "Cua hoang dé Alaska s6t BBQ",
+13 des: "Da Ning - Ving Tau - 12500 K",
+14 i
+
+115;
+
+116
+
+117 export default MaiNgocNotes;
+18
