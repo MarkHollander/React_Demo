@@ -1,0 +1,38 @@
+{"employees" : [
+{
+	"id":1,
+	"name": "Mai Ngoc",
+	"age": "31",
+	"salary":"4500",
+	"address":"Settle"
+},
+{
+	"id":2,
+	"name": "Tieu Vy",
+	"age": "23",
+	"salary":"5500",
+	"address":"Paris"
+},
+{
+	"id":3,
+	"name": "Dang Ngoc Han",
+	"age": "28",
+	"salary":"3300",
+	"address":"Milan"
+},
+{
+	"id":4,
+	"name": "Quynh Nga",
+	"age": "33",
+	"salary":"2500",
+	"address":"Ha Long"
+},
+{
+	"id":5,
+	"name": "Do My Linh",
+	"age": "26",
+	"salary":"5000",
+	"address":"Ha Noi"
+}]
+
+}

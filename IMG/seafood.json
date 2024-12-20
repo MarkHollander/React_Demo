@@ -1,0 +1,53 @@
+{
+    "seafood": [
+        {
+            "id": 1,
+            "productName": "Tôm Hùm Canada",
+            "price": 1390000,
+            "description": "Tôm Hùm Canada được xem là một trong những loại tôm ngon nhất thế giới. Tôm Hùm Canada được đánh bắt tại vùng biển Canada và một khu vực biển thuộc lãnh thổ Mỹ",
+            "imgUrl": "https://product.hstatic.net/1000182631/product/tom_hum_canada_3_2bb5149e9e2d439f944e231ffabc79d7_master.jpeg"
+        },
+        {
+            "id": 2,
+            "productName": "Tôm Hùm Bông Thiên Nhiên Úc",
+            "price": 3490000,
+            "description": "Tôm hùm bông thiên nhiên được mệnh danh là vua của các loại tôm hùm vì không chỉ gây ấn tượng với vẻ ngoài nổi bật, vị ngon tuyệt vời mà còn chứa giá trị dinh dưỡng cao.",
+            "imgUrl": "https://product.hstatic.net/1000182631/product/z4437436761255_cfa6ad8d25a56d82b8e9ba4475df409e_d8372cd54e92481080e40283f49b8902_master.jpg"
+        },
+        {
+            "id": 3,
+            "productName": "Tôm Tít (Size lớn)",
+            "price": 4990000,
+            "description": "Tôm tít thuộc loài giáp xác, loại tôm có thân dài, lưng chia làm nhiều đốt và có màu trắng đục. Loại tôm này tại Việt Nam khá đa dạng về kích thước, tuy nhiên tôm tít size “khủng” vẫn chiếm trọn cảm tình của khách hàng",
+            "imgUrl": "https://product.hstatic.net/1000182631/product/300393325_3347764765489876_5363656976213071135_n_5b4313bd28814ddeaf56d306781f5be3_master.jpeg"
+        },
+        {
+            "id": 4,
+            "productName": "Tôm Hùm Tây Úc",
+            "price": 1890000,
+            "description": "Nối gót “anh trai cùng mẹ khác cha” đến từ Nam Úc. Tôm Hùm Tây Úc cũng góp mặt trong danh sách các loại tôm hùm được săn lùng tại Việt Nam. Tôm Hùm Tây Úc được đánh bắt tự nhiên ở vùng biển sạch phía Tây Nam và Tây Bắc nước Úc",
+            "imgUrl": "https://product.hstatic.net/1000182631/product/341546916_779962560314930_5990634230531447798_n_2b8aa07adf434ee0a4a4ab6d27d6c687_master.jpeg"
+        },
+        {
+            "id": 5,
+            "productName": "Cua Hoàng Đế - King Crab",
+            "price": 2490000,
+            "description": "Đến từ xứ Alaska lạnh giá, King Crab được vinh danh là vua của các loài cua với những đôi chân có thể sải dài đến 2,0m và cân nặng lên tới 10kg. Cua Hoàng Đế - King Crab có thể sống đến 20 năm nhờ vào những chiếc chân dài và to cùng với bộ áo giáp gai vững chãi, giúp chúng dễ dàng thích nghi với sự khắc nghiệt nơi đáy đại dương",
+            "imgUrl": "https://product.hstatic.net/1000182631/product/haisant6_01837_aec381b40cc7489cb53943bd398f41fc_master.gif"
+        },
+        {
+            "id": 6,
+            "productName": "Cua Nâu - Ireland",
+            "price": 689000,
+            "description": "Xuất xứ từ vùng biển Bắc Âu như Scotland, Ireland và nhiều nhất là Ireland (chính vì thế nên được ưu tiên gọi là Cua Nâu Ireland), cua nâu là món hải sản đặc biệt, đây lại là loại hải sản có giá trị kinh tế cao và thuộc vào hàng nguyên liệu chế biến nên những món đặc sản cao cấp. Bạn sẽ bị cuốn hút ngay bởi hương vị thơm ngon hấp dẫn ngay trong lần đầu thưởng thức",
+            "imgUrl": "https://product.hstatic.net/1000182631/product/288600835_5561123440588493_3869385291249341516_n_a502b43363754a10935c22a2ae15479d_master.jpg"
+        },
+        {
+            "id": 7,
+            "productName": "Hàu Giống Pháp",
+            "price": 15000,
+            "description": "Nói về Hàu giống Pháp hay còn được gọi ngắn gọn là Hàu Pháp hoặc cũng có thể gọi là hàu sữa Pháp. Đây chính là giống hàu được nhập về từ Pháp hoặc cũng có thể được lai tạo trong nước cùng những con hàu Pháp. Do đó nếu như so với hàu đá thì Hàu giống Pháp đòi hỏi cao về điều kiện sinh dưỡng",
+            "imgUrl": "https://product.hstatic.net/1000182631/product/295663910_3325547017711651_50075804267676377_n_0c0fa8fb6ff84c5cbdb10b8d587010fe_master.jpeg"
+        }
+    ]
+}
