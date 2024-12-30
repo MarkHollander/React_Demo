@@ -16,13 +16,14 @@ import ParentComponent from './components/ParentComponent';
 import UserGreeting from './components/UserGreeting';
 import NameList from './components/NameList';
 import Stylesheet from './components/Stylesheet';
+import LifecycleA from './components/LifecycleA';
 
 
 function App() {
   return (
     <div className="App">
       
-      <Stylesheet primary = "true" />
+      <LifecycleA />
       
     </div>
   );

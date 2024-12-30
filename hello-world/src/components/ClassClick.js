@@ -11,8 +11,8 @@ export class ClassClick extends Component {
       count: 0
     }
 
-    this.clickHandler = this.clickHandler.bind(this);
-    this.fiveClickHandler = this.fiveClickHandler.bind(this);
+    //this.clickHandler = this.clickHandler.bind(this);
+    //this.fiveClickHandler = this.fiveClickHandler.bind(this);
   }
   
   clickHandler() {
