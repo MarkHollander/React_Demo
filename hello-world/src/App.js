@@ -17,13 +17,14 @@ import UserGreeting from './components/UserGreeting';
 import NameList from './components/NameList';
 import Stylesheet from './components/Stylesheet';
 import LifecycleA from './components/LifecycleA';
+import FragmentDemo from './components/FragmentDemo';
 
 
 function App() {
   return (
     <div className="App">
       
-      <LifecycleA />
+      <FragmentDemo />
       
     </div>
   );
